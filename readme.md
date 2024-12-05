@@ -1,4 +1,9 @@
-ポートフォリオ：https://issei-ishiiportfolio.vercel.app
+# 石井一成
+
+茨城工業高等専門学校　5年　情報系
+
+制作したものが載っています > 
+[ポートフォリオ](https://issei-ishiiportfolio.vercel.app)
 
 Unityでゲームを作るのが好きです．
 
